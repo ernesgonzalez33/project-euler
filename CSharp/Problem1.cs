@@ -1,6 +1,6 @@
 using System;
 
-public class HelloWorld
+public class Problem1 
 {
   //Recursive function to get the 3 and 5 multipliers
   public static int Euler1(int current, int sum, int final)
