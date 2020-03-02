@@ -1,0 +1,3 @@
+= Project Euler examples
+
+Repository where I will put all my Project Euler solutions for several languages
